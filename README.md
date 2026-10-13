@@ -30,7 +30,7 @@ The AI review function is prepared for integration with a compatible API model. 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Code-Review-Assistant.git
+git clone https://github.com/santa1912/AI-Code-Review-Assistant.git
 cd AI-Code-Review-Assistant
 ```
 
